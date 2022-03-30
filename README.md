@@ -3,7 +3,7 @@
 node.js asterisk pbx
 
 This is based on "asterisk.io", developped by Zugravu Eugen Marius.
-That provide you to manage easily calls on your asterisk serveur
+That provide you to manage easily calls on your asterisk server
 
 [1. Install](#1-install)
 
