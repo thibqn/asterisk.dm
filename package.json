@@ -1,15 +1,14 @@
 {
     "name": "asterisk.dm",
-    "version": "0.0.1",
-    "description": "node.js asterisk pbx io",
+    "version": "0.1.0",
+    "description": "node.js asterisk pbx",
     "keywords": [
         "asterisk",
         "pbx",
         "utilities",
         "events",
         "ami",
-        "agi",
-        "ari"
+        "agi"
     ],
     "repository": {
         "type": "git",
@@ -17,12 +16,11 @@
     },
     "contributors": [
         {
-            "name": "Zugravu Eugen Marius",
-            "email": "marius@zugravu.com",
-            "fork": "asterisk.io"
-        },{
             "name": "BOURQUIN Thibaut",
             "email": "contact@devmaster.fr"
         }
-    ]
+    ],
+    "dependencies": {
+        "asterisk.io": "^0.1.1"
+    }
 }

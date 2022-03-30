@@ -1,4 +1,3 @@
-module.exports = {
-    ami: require('./lib/ami'),
-    agi: require('./lib/agi')
-}
+const VocalServer = require('./lib/VocalServer')
+
+module.exports = VocalServer
